@@ -166,4 +166,6 @@ sns.pairplot(lk)
 
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+```
+We have performed Exploratory Data Analysis on the given data set successfully.
+```
